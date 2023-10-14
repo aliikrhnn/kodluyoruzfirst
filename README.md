@@ -1,0 +1,2 @@
+# kodluyoruzfirst
+for kodluyoruz education 
