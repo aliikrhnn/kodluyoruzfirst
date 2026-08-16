@@ -1,26 +1,14 @@
-# Kodluyoruz Ilk Repo
+# Kodluyoruz — First Project
 
-This repository for a front-end education in kodluyoruz 
- [Kodluyoruz](https://www.kodluyoruz.org)
+My first HTML page, written during the Kodluyoruz frontend programme in 2023.
 
-![github](figures/github.png)
+Kept as the starting line. Nothing here is meant to be impressive; it is where the
+account begins.
 
-## Installation
-```bash
-git clone https://github.com/cengizcmataraci/kodluyoruzfirst.git
-```
+## Running it
 
-## Usage
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+Open `index.html` in a browser.
 
-Linux için:
-```linux
-cd kodluyoruzfirst
-code .
-```
+## Licence
 
-## Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
-
-## License
-[MIT License](https://choosealicense.com/licenses/mit/)
+MIT — see [LICENSE](LICENSE).
